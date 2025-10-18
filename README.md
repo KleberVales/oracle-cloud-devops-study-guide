@@ -64,6 +64,10 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
 *Back-end Software Developer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
 
+🏆**Java Certified**  🏆**Microsoft Certified**  🏆**Scrum Certified**
+
+
+
 
 
 
