@@ -66,6 +66,9 @@ Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibe
 
 🏆**Java Certified**  🏆**Microsoft Certified**  🏆**Scrum Certified**
 
+Bachelor's Degree in Computer Science  
+
+
 
 
 
