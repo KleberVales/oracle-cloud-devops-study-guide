@@ -64,7 +64,9 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
 *Back-end Software Engineer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
 
-🏆**OCA: Java SE 7 Programmer**  🏆**MTA: Software Development**  🏆**Scrum Certified**
+🏆**OCA: Java SE 7 Programmer**  🏆**MTA: Software Development**  🏆**Scrum Certified** 
+
+🏆**OCI 2025: DevOps Professional** 🏆**OCI 2025: Generative AI Professional**
 
 Bachelor's Degree in Computer Science  
 MBA in Web Software Development
